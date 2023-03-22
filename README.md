@@ -1,7 +1,7 @@
 # Model-Deployment-
 In this repository I have uploaded implementations of some model deployment using flask, streamlit. (Will be updating it)
 
-Streamlit API for datasets and models accuracy - https://streamlit-heroku-dataset-model.herokuapp.com/
+Streamlit API for datasets and models accuracy - https://streamlit-heroku-dataset-model.herokuapp.com/ (Currently not Active)
 
 Resnet 50 is a convolutional neural network architecture that has been widely used for image classification tasks. It has 50 layers and has achieved state-of-the-art performance on various benchmark datasets.
 

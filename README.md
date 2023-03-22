@@ -1,4 +1,4 @@
-# Model-Deployment-
+# Model Deployment using Flask & Streamlit on Heroku
 In this repository I have uploaded implementations of some model deployment using flask, streamlit. (Will be updating it)
 
 Streamlit API for datasets and models accuracy - https://streamlit-heroku-dataset-model.herokuapp.com/ (Currently not Active)
